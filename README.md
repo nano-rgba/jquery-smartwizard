@@ -348,4 +348,4 @@ If you like the project please support with your contribution.
 
 [GitHub Sponsor](https://github.com/sponsors/techlab)  
 
-Happy Coding :heart:
+Happy Coding ❤️
